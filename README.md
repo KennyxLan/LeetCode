@@ -1,6 +1,8 @@
 # LeetCode
 
-**Total solved: Easy 15, Medium 7, Hard 1 **
+
+**Total solved: Easy 15, Medium 7, Hard 1 (increasing)**
+
 
 | Difficulty  | Problem name | Language | Best Runtime (faster than)* | Best Memory (less than)* |
 | ------------- | ------------- | ------------- | ------------- | ------------- |

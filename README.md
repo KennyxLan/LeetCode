@@ -6,6 +6,8 @@
 | Hard  | 903. Valid Permutations for DI Sequence  | C++ | * **100%**  | 60.91% |
 | Medium  | 701. Insert into a Binary Search Tree  | C++ | * **74.15%** | 5.18% |
 | Medium  | 78. Subsets  | Kotlin | * **98.74%** | * **77.36%** |
+| Medium  | 241. Different Ways to Add Parentheses | C++ | 39.96% | 7.49% |
+| Medium  | 241. Different Ways to Add Parentheses | 
 
 
 *Runtime: Faster than xx.xx% of online submissions (of the language used) for the problem. Higher % is better.

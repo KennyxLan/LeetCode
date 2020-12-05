@@ -1,5 +1,5 @@
 /*
-(HARD) 903. Valid Permutations for DI Sequence.cpp
+(Hard) 903. Valid Permutations for DI Sequence.cpp
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Valid Permutations for DI Sequence.
 Memory Usage: 7.4 MB, less than 60.91% of C++ online submissions for Valid Permutations for DI Sequence.
 */

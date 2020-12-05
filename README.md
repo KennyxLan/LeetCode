@@ -4,7 +4,7 @@
 **Total solved: Easy 15, Medium 7, Hard 1 (increasing)**
 
 
-| Difficulty  | Problem name | Language | Best Runtime (faster than)* | Best Memory (less than)* |
+| Difficulty  | Problem name | Language | Best Runtime (faster than)* | Best Memory Usage (less than)* |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Hard  | 903. Valid Permutations for DI Sequence  | C++ | * **100%**  | 60.91% |
 | Medium  | 701. Insert into a Binary Search Tree  | C++ | * **74.15%** | 5.18% |

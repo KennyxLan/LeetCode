@@ -8,4 +8,4 @@
 
 
 *Runtime: Faster than xx.xx% of online submissions (of the language used) for the problem. Higher % is better.
-* Memory Usage: Less than xx.xx% of online submissions (of the language used) for the problem. Hight % is better.
+*Memory Usage: Less than xx.xx% of online submissions (of the language used) for the problem. Hight % is better.

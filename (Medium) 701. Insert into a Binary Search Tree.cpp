@@ -1,5 +1,5 @@
 /*
-(MEDIUM) 701. Insert into a Binary Search Tree
+(Medium) 701. Insert into a Binary Search Tree.cpp
 Runtime: 116 ms, faster than 74.15% of C++ online submissions for Insert into a Binary Search Tree.
 Memory Usage: 60.3 MB, less than 5.18% of C++ online submissions for Insert into a Binary Search Tree.]
 */

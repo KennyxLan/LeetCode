@@ -1,3 +1,7 @@
+// (HARD) 903. Valid Permutations for DI Sequence.cpp
+// Runtime: 0 ms, faster than 100.00% of C++ online submissions for Valid Permutations for DI Sequence.
+// Memory Usage: 7.6 MB, less than 60.00% of C++ online submissions for Valid Permutations for DI Sequence.
+
 class Solution {
 public:
     int numPermsDISequence(string S) {
@@ -21,10 +25,10 @@ public:
                 for(int j{0}; j < i + 2; j++){
                     curVector.push_back(q);
                     if(j <= i)
-                        q = ( 1000000007 + q - preVector[j] ) % 1000000007;
+                        q = (1000000007 + q - preVector[j]) % 1000000007;
                 }
-                
             }
+            preVector.clear();
             preVector = curVector;
             curVector.clear();
         }

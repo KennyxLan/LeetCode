@@ -8,7 +8,7 @@ Some of the problems I solved and the scores I achieved are listed below.
 | Difficulty  | Problem name | Language | Best Runtime (faster than)* | Best Memory Usage (less than)* |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | * **Hard**  | 903. Valid Permutations for DI Sequence  | C++ | * **100%**  | 60.91% |
-| * **Hard**  | 25. Reverse Nodes in k-Group  | C++ | * **96.30%**  | * **70.30%** |
+| * **Hard**  | 25. Reverse Nodes in k-Group  | C++ | * **96.42%**  | * **77.62%** |
 | Medium  | 701. Insert into a Binary Search Tree  | C++ | * **74.15%** | 5.18% |
 | Medium  | 78. Subsets  | Kotlin | * **98.74%** | * **77.36%** |
 | Medium  | 241. Different Ways to Add Parentheses | C++ | 39.96% | 7.49% |

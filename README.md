@@ -1,7 +1,7 @@
 # LeetCode
 
 
-### **Problems solved:  Easy 17,  Medium 7,  Hard 2  (Total 26) (increasing)**
+### **Problems solved:  Easy 18,  Medium 7,  Hard 2  (Total 27) (increasing)**
 
 Some of the problems I solved and the scores I achieved are listed below.
 
@@ -14,8 +14,11 @@ Some of the problems I solved and the scores I achieved are listed below.
 | Medium  | 241. Different Ways to Add Parentheses | C++ | 39.96% | 7.49% |
 | Medium  | 701. Insert into a Binary Search Tree  | C++ | * **74.15%** | 5.18% |
 | Easy  | 13. Roman to Integer | C | * **100.00%** | * **98.65%** | 
+| Easy  | 141. Linked List Cycle.kt | Kotlin | * **98.50%** | 40.00% | 
 | Easy  | 206. Reverse Linked List | Kotlin | * **98.40%** | 32.37% | 
 | Easy  | 237. Delete Node in a Linked List.kt | Kotlin | * **100.00%** | 15.25% | 
+
+
 
 
 

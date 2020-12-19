@@ -1,7 +1,7 @@
 # LeetCode
 
 
-### **Problems solved:  Easy 20,  Medium 8,  Hard 2  (Total 30) (increasing)**
+### **Problems solved:  Easy 20,  Medium 9,  Hard 2  (Total 31) (increasing)**
 
 Some of the problems I solved and the scores I achieved are listed below.
 
@@ -11,6 +11,8 @@ Some of the problems I solved and the scores I achieved are listed below.
 | * **Hard**  | 25. Reverse Nodes in k-Group  | C++ | * **96.42%**  | * **77.62%** |
 | Medium  | 2. Add Two Numbers | C | * **99.84%** | * **99.79%** |
 | Medium  | 2. Add Two Numbers | C++ | * **96.27%** | * **93.47%** |
+| Medium  | 94. Binary Tree Inorder Traversal(iterative) | C++ | * **100.00%** | * **99.71%** |
+| Medium  | 94. Binary Tree Inorder Traversal(recursive) | C++ | * **100.00%** | 5.69% |
 | Medium  | 59. Spiral Matrix II | Kotlin | * **100.00%** | 57.78 % |
 | Medium  | 78. Subsets  | Kotlin | * **98.74%** | * **77.36%** |
 | Medium  | 241. Different Ways to Add Parentheses | C++ | 39.96% | 7.49% |

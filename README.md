@@ -9,6 +9,7 @@ Some of the problems I solved and the scores I achieved are listed below.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | * **Hard**  | 903. Valid Permutations for DI Sequence  | C++ | * **100%**  | 60.91% |
 | * **Hard**  | 25. Reverse Nodes in k-Group  | C++ | * **96.42%**  | * **77.62%** |
+| Medium  | 2. Add Two Numbers | C | * **99.84%** | * **99.79%** |
 | Medium  | 2. Add Two Numbers | C++ | * **96.27%** | * **93.47%** |
 | Medium  | 59. Spiral Matrix II | Kotlin | * **100.00%** | 57.78 % |
 | Medium  | 78. Subsets  | Kotlin | * **98.74%** | * **77.36%** |

@@ -20,6 +20,7 @@ Some of the problems I solved and the scores I achieved are listed below.
 | Medium  | 450. Delete Node in a BST | C++ | * **97.52%** | * **95.46%** |
 | Medium  | 701. Insert into a Binary Search Tree  | C++ | * **74.15%** | 5.18% |
 | Easy  | 13. Roman to Integer | C | * **100.00%** | * **98.65%** | 
+| Easy  | 83. Remove Duplicates from Sorted List | C++ | * **98.56%** | * **99.78%** | 
 | Easy  | 141. Linked List Cycle.kt | Kotlin | * **98.50%** | 40.00% | 
 | Easy  | 206. Reverse Linked List | Kotlin | * **98.40%** | 32.37% | 
 | Easy  | 237. Delete Node in a Linked List.kt | Kotlin | * **100.00%** | 15.25% | 

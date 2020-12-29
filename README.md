@@ -1,7 +1,7 @@
 # LeetCode
 
 
-### **Problems solved:  Easy 22,  Medium 10,  Hard 2  (Total 34) (increasing)**
+### **Problems solved:  Easy 23,  Medium 10,  Hard 2  (Total 35) (increasing)**
 
 Some of the problems I solved and the scores I achieved are listed below.
 
@@ -23,6 +23,7 @@ Some of the problems I solved and the scores I achieved are listed below.
 | Easy  | 83. Remove Duplicates from Sorted List(iterative) | C++ | * **98.56%** | * **99.78%** | 
 | Easy  | 83. Remove Duplicates from Sorted List(recursive) | C++ | * **98.56%** | * **99.78%** | 
 | Easy  | 141. Linked List Cycle.kt | Kotlin | * **98.50%** | 40.00% | 
+| Easy  | (Easy) 160. Intersection of Two Linked Lists | C++ | * **95.01%** | * **85.32%** | 
 | Easy  | 206. Reverse Linked List | Kotlin | * **98.40%** | 32.37% | 
 | Easy  | 237. Delete Node in a Linked List.kt | Kotlin | * **100.00%** | 15.25% | 
 | Easy  | 876. Middle of the Linked List | C++ | * **100.00%** | * **100.00%** |

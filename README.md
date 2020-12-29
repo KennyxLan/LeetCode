@@ -25,6 +25,7 @@ Some of the problems I solved and the scores I achieved are listed below.
 | Easy  | 141. Linked List Cycle.kt | Kotlin | * **98.50%** | 40.00% | 
 | Easy  | 206. Reverse Linked List | Kotlin | * **98.40%** | 32.37% | 
 | Easy  | 237. Delete Node in a Linked List.kt | Kotlin | * **100.00%** | 15.25% | 
+| Easy  | 876. Middle of the Linked List | C++ | * **100.00%** | * **100.00%** |
 | Easy  | 1290. Convert Binary Number in a Linked List to Integer | Kotlin | * **89.87%** | 16.03 | 
 
 

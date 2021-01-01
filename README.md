@@ -1,7 +1,7 @@
 # LeetCode
 
 
-### **Problems solved:  Easy 24,  Medium 10,  Hard 2  (Total 36) (increasing)**
+### **Problems solved:  Easy 25,  Medium 10,  Hard 2  (Total 37) (increasing)**
 
 Some of the problems I solved and the scores I achieved are listed below.
 
@@ -26,6 +26,7 @@ Some of the problems I solved and the scores I achieved are listed below.
 | Easy  | 160. Intersection of Two Linked Lists | C++ | * **95.01%** | * **85.32%** | 
 | Easy  | 203. Remove Linked List Elements | C++ | * **98.71%** | * **99.75%** |
 | Easy  | 206. Reverse Linked List | Kotlin | * **98.40%** | 32.37% | 
+| Easy  | 234. Palindrome Linked List | C++ | * **99.95%** | * **97.36%** | 
 | Easy  | 237. Delete Node in a Linked List.kt | Kotlin | * **100.00%** | 15.25% | 
 | Easy  | 876. Middle of the Linked List | C++ | * **100.00%** | * **100.00%** |
 | Easy  | 1290. Convert Binary Number in a Linked List to Integer | Kotlin | * **89.87%** | 16.03 | 

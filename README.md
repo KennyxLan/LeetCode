@@ -1,7 +1,7 @@
 # LeetCode
 
 
-### **Problems solved:  Easy 25,  Medium 10,  Hard 2  (Total 37) (increasing)**
+### **Problems solved:  Easy 26,  Medium 10,  Hard 2  (Total 38) (increasing)**
 
 Some of the problems I solved and the scores I achieved are listed below.
 
@@ -22,6 +22,7 @@ Some of the problems I solved and the scores I achieved are listed below.
 | Easy  | 13. Roman to Integer | C | * **100.00%** | * **98.65%** | 
 | Easy  | 83. Remove Duplicates from Sorted List(iterative) | C++ | * **98.56%** | * **99.78%** | 
 | Easy  | 83. Remove Duplicates from Sorted List(recursive) | C++ | * **98.56%** | * **99.78%** | 
+| Easy  | 121. Best Time to Buy and Sell Stock | C++ | * **99.74%** | * **99.03%** | 
 | Easy  | 141. Linked List Cycle.kt | Kotlin | * **98.50%** | 40.00% | 
 | Easy  | 160. Intersection of Two Linked Lists | C++ | * **95.01%** | * **85.32%** | 
 | Easy  | 203. Remove Linked List Elements | C++ | * **98.71%** | * **99.75%** |

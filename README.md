@@ -1,14 +1,15 @@
 # LeetCode
 
 
-### **Problems solved:  Easy 27,  Medium 11,  Hard 2  (Total 40) (increasing)**
+### **Problems solved:  Easy 27,  Medium 12,  Hard 3  (Total 42) (increasing)**
 
 Some of the problems I solved and the scores I achieved are listed below.
 
 | Difficulty  | Problem name | Language | Best Runtime (faster than)* | Best Memory Usage (less than)* |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| * **Hard**  | 903. Valid Permutations for DI Sequence  | C++ | * **100%**  | 60.91% |
+| * **Hard**  | 23. Merge k Sorted Lists | C++ | * **96.91%**  | * **98.33%** |
 | * **Hard**  | 25. Reverse Nodes in k-Group  | C++ | * **96.42%**  | * **77.62%** |
+| * **Hard**  | 903. Valid Permutations for DI Sequence  | C++ | * **100%**  | 60.91% |
 | Medium  | 2. Add Two Numbers | C | * **99.84%** | * **99.79%** |
 | Medium  | 2. Add Two Numbers | C++ | * **96.27%** | * **93.47%** |
 | Medium  | 94. Binary Tree Inorder Traversal(iterative, destructive) | C++ | * **100.00%** | * **99.71%** |

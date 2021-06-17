@@ -1,7 +1,7 @@
 # LeetCode
 
 
-### **Problems solved:  Easy 37,  Medium 26,  Hard 5  (Total 68) (increasing)**
+### **Problems solved:  Easy 39,  Medium 28,  Hard 7  (Total 74) (increasing)**
 
 Some of the problems I solved and the scores I achieved are listed below.
 
@@ -12,6 +12,7 @@ Some of the problems I solved and the scores I achieved are listed below.
 | * **Hard**  | 903. Valid Permutations for DI Sequence  | C++ | * **100%**  | 60.91% |
 | Medium  | 2. Add Two Numbers | C | * **99.84%** | * **99.79%** |
 | Medium  | 2. Add Two Numbers | C++ | * **96.27%** | * **93.47%** |
+| Medium  | 22. Generate Parentheses | C++ | * **100.00%** | * **95.88%** |
 | Medium  | 31. Next Permutation | C++ | * **100.00%** | * **73.87%** |
 | Medium  | 46. Permutations | C++ | * **100.00%** | * **74.02%** |
 | Medium  | 94. Binary Tree Inorder Traversal(iterative, destructive) | C++ | * **100.00%** | * **99.71%** |

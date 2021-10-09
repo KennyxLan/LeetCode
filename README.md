@@ -21,6 +21,7 @@ Some of the problems I solved and the scores I achieved are listed below.
 | Medium  | 59. Spiral Matrix II | Kotlin | * **100.00%** | 57.78 % |
 | Medium  | 78. Subsets  | Kotlin | * **98.74%** | * **77.36%** |
 | Medium  | 144. Binary Tree Preorder Traversal | C++ | * **100.00%** | * **94.75%** |
+| Medium  | 208. Implement Trie (Prefix Tree) | Java | * **95.50%** | * **92.99%** |
 | Medium  | 241. Different Ways to Add Parentheses | C++ | 39.96% | 7.49% |
 | Medium  | 450. Delete Node in a BST | C++ | * **97.52%** | * **95.46%** |
 | Medium  | 701. Insert into a Binary Search Tree  | C++ | * **74.15%** | 5.18% |

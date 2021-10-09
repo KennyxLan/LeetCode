@@ -1,7 +1,7 @@
 # LeetCode
 
 
-### **Problems solved:  Easy 39,  Medium 28,  Hard 7  (Total 74) (increasing)**
+### **Problems solved:  Easy 53,  Medium 49,  Hard 9  (Total 111) (increasing)**
 
 Some of the problems I solved and the scores I achieved are listed below.
 
